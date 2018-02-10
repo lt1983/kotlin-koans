@@ -2,9 +2,9 @@
 
 Kotlin Koans
 ===========
+koans 的意思是以心传心，所以这个项目名就真的太传神了。这个项目就是让你通过一系列的联系来熟悉Kotlin的语法。
+每个练习都是编程让失败的单元测试可以通过。
 
-Kotlin Koans Workshop is a series of exercises to get you familiar with the Kotlin Syntax. 
-Each exercise is created as a failing unit test and your job is to make it pass. 
 
 #### How to build and run tests
 
